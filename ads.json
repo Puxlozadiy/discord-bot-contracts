@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Мясо",
+    "speed": "От 1.5 до 2 часов.",
+    "employee": "1",
+    "prices": "От $24.000 до $27.000",
+    "imageUrl": "https://i.imgur.com/wGetQbV.png",
+    "messageId": "968409742567411722"
+  },
+  {
+    "name": "Мусор",
+    "speed": "От 1.5 до 2 часов.",
+    "employee": "1",
+    "prices": "От $24.000 до $27.000",
+    "imageUrl": "https://i.imgur.com/wGetQbV.png",
+    "messageId": "968409743569854494"
+  },
+  {
+    "name": "Мясо и Мусор",
+    "speed": "От 3 до 4 часов.",
+    "employee": "1",
+    "prices": "От $48.000 до $54.000",
+    "imageUrl": "https://i.imgur.com/wGetQbV.png",
+    "messageId": "968409744526168114"
+  },
+  {
+    "name": "Швейка",
+    "speed": "От 5 до 10 минут.",
+    "employee": "5",
+    "prices": "От $9.000 до $10.000",
+    "imageUrl": "https://i.imgur.com/wGetQbV.png",
+    "messageId": "968409745427943424"
+  },
+  {
+    "name": "Схемы",
+    "speed": "От 5 до 10 минут.",
+    "employee": "5",
+    "prices": "От $9.000 до $10.000",
+    "imageUrl": "https://i.imgur.com/wGetQbV.png",
+    "messageId": "968409746396815360"
+  },
+  {
+    "name": "Мотивированное волонтёрство",
+    "speed": "От 3 до 7 минут.",
+    "employee": "5",
+    "prices": "От $5.000 до $7.000",
+    "imageUrl": "https://i.imgur.com/wGetQbV.png",
+    "messageId": "968409766663708692"
+  },
+  {
+    "name": "Скользская дорожка",
+    "speed": "От 3 до 7 минут.",
+    "employee": "5",
+    "prices": "От $5.000 до $7.000",
+    "imageUrl": "https://i.imgur.com/wGetQbV.png",
+    "messageId": "968409767519330334"
+  }
+]

@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "284218293601042433",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "794162599696400414",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "585178452156743681",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "695938298652262490",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "956130094441705532",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "564815478376103936",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "404240636515057674",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "402418194687590400",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "353613178472759297",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "325892982572318720",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "679296619677614112",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "451280104127987714",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "944567679702925312",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "364104660325498880",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "419869045203140618",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "405820456684355585",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "504647971305029643",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "801055216048406569",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "716562440858370119",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "446374506576085002",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Мотивир. волонтёрство",
+        "contract-volunteer"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "495865256791506985",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "337713296092430347",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "547091645791731778",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "703893709682376745",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "208478024172044290",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Обновляем градероб",
+        "contract-sewing"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "777677154858565662",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "629374930840190976",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "672429561241403402",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "569090940032253970",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "208478024172044290",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Обновляем градероб",
+        "contract-sewing"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "413756000525484032",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "576466621628022797",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "950013030144540682",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "536538264627183636",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "941433636572512297",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "697033518798209084",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "624651090939478027",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "460090342109085708",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "505822168836472852",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "748645853421633546",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "527178559412895754",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "570919927058268160",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "586920448713818122",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "443707898095468554",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "829074288741056524",
+    "jobs": [
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "728975135150964757",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "728975135150964757",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "680469091722854526",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "678169612562726928",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Обновляем градероб",
+        "contract-sewing"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "403994882953314305",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "414081316943036418",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Обновляем градероб",
+        "contract-sewing"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "398791993016188930",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "421194667699208203",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "705513035082498134",
+    "jobs": [
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "422341113307725824",
+    "jobs": [
+      [
+        "Обновляем градероб",
+        "contract-sewing"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "719117842733203498",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "953558339944595490",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "642380406934601730",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "349599398646251526",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "697033518798209084",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "262982169331367936",
+    "jobs": [
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "429902244662476800",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "524603064137809950",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "478983034864009246",
+    "jobs": [
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "680366760226193439",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Мотивир. волонтёрство",
+        "contract-volunteer"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "451280104127987714",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "589163545078399006",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "400005343758778399",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "930170725967482902",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "269192182479585280",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Обновляем градероб",
+        "contract-sewing"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "458513341292347402",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "696293699285418054",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "274939542937665539",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "416641578635886594",
+    "jobs": [
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "355069613924679700",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "428472106880204800",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "679296619677614112",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "779467078385008680",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "353653556491845632",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "703893709682376745",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "585178452156743681",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "342636550208749578",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "569090940032253970",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "777677154858565662",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "547091645791731778",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "354555451024867330",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "729277980622454846",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "564815478376103936",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "413756000525484032",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "412938392603721729",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "711835390541037618",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "678169612562726928",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "564815478376103936",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "342636550208749578",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "680366760226193439",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "705513035082498134",
+    "jobs": [
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "478983034864009246",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "443707898095468554",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "642380406934601730",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "402418194687590400",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "413756000525484032",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "253150088182890498",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "300004213189246976",
+    "jobs": [
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "941433636572512297",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "532624390920208399",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "734396450695282699",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "422341113307725824",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "701611940082090027",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "253202212434477059",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "632249910342844454",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "543342708773748737",
+    "jobs": [
+      [
+        "Мясной день",
+        "contract-meal"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ],
+      [
+        "Обновляем градероб",
+        "contract-sewing"
+      ],
+      [
+        "Долгожд. встреча",
+        "contract-schemes"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "446374506576085002",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "400005343758778399",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "716562440858370119",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "354555451024867330",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "412938392603721729",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "586920448713818122",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "353653556491845632",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "711835390541037618",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "400005343758778399",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "956130094441705532",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "428472106880204800",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "253202212434477059",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "705513035082498134",
+    "jobs": [
+      [
+        "Скользк. дорожка",
+        "contract-badway"
+      ],
+      [
+        "Гранд. уборка",
+        "contract-trash"
+      ]
+    ],
+    "vacancyCount": 0
+  },
+  {
+    "id": "680469091722854526",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "463053953408565248",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "337713296092430347",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "422341113307725824",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "680366760226193439",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "642380406934601730",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "697033518798209084",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "443707898095468554",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "262982169331367936",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "463053953408565248",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "402418194687590400",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "680469091722854526",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "547091645791731778",
+    "jobs": [],
+    "vacancyCount": 0
+  },
+  {
+    "id": "680366760226193439",
+    "jobs": [],
+    "vacancyCount": 0
+  }
+]
